@@ -104,7 +104,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // print(getFullName('Foo', 'Bar'));
-    test();
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
